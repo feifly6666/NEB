@@ -1,5 +1,4 @@
-# ![](E:\软件开发\NEB image\Nquire3.png)
-
+NewLand Enterprise Browser For NQuire-300
 ---
 
 [TOC]
@@ -21,7 +20,6 @@ You can install NEB on NQuire300, run it like an Android application, and use it
 
 #### 3.1.Download&Import NEB code from GitHub
 
-![1523245562355](C:\Users\dell\AppData\Local\Temp\1523245562355.png)
 
 Unzip the [NlScanCordova.zip](https://github.com/feifly6666/NEB/blob/feifly6666-patch-1/NlScanCordova.zip) and import code into Android Studio.
 
@@ -29,13 +27,11 @@ Unzip the [NlScanCordova.zip](https://github.com/feifly6666/NEB/blob/feifly6666-
 
 Please select `NlScanCordova \ platforms \ android \ build.gradle` file to import the project.
 
-![importCode](E:\软件开发\NEB image\importCode.png)
 
 #### 3.2.Copy the `www` folder to the server
 
 After imported `NlScanCordova` into Android Studio, you can see a `www` folder under the path `NlScanCordova \ platforms \ android \ app \ src \ main \ assets`
 
-![1523245844884](C:\Users\dell\AppData\Local\Temp\1523245844884.png)
 
  Copy the `www` folder to server.
 
@@ -43,7 +39,6 @@ After imported `NlScanCordova` into Android Studio, you can see a `www` folder u
 
 Copy the `www` folder to xampp (apache) server's htdocs directory and renamed it to NEBTest.
 
-![1523245908670](C:\Users\dell\AppData\Local\Temp\1523245908670.png)
 
 #### 3.3.Modify Config.xml
 
@@ -75,9 +70,6 @@ Modify the `<preference>` tag to specify the error page's URL and local page's U
 
 Connect NQuire300 and computer via the USB cable and start NEB by Android Studio.
 
-![1523257203803](C:\Users\dell\AppData\Local\Temp\1523257203803.png)
-
-![img](E:\软件开发\NEB image\NEB.png)
 
 ### 4.API
 
@@ -193,15 +185,11 @@ You can install it to NQuire300 at the same time as NEB.
 
 #### 5.1.Download&Import NEB code from GitHub
 
-![1523328911060](C:\Users\dell\AppData\Local\Temp\1523328911060.png)
-
 Unzip the [NEBConfig.zip](https://github.com/feifly6666/NEB/blob/feifly6666-patch-1/NEBConfig.zip) and import code into Android Studio.
 
 ※When you unzip the file you will need a password that provided by NewLand FAE.
 
 Please select `NEBConfig\ build.gradle` file to import NEBConfig project.
-
-![1523329611728](C:\Users\dell\AppData\Local\Temp\1523329611728.png)
 
 #### 5.2.Start NEBConfig Application
 
