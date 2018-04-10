@@ -195,7 +195,6 @@ Please select `NEBConfig\ build.gradle` file to import NEBConfig project.
 
 Connect NQuire300 and computer via the USB cable and start NEBConfig by Android Studio.
 
-![img](E:\软件开发\NEB image\NEBConfig.png)
 
 > Web Page
 
