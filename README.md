@@ -1,2 +1,4 @@
 # NEB
-NEB is an acronym for NewLand Enterprise Browser and is still under development, so it is an unfinished demo code. NEB is based on the open source framework Cordova, so you can find what you need information on the official Cordova website (http://cordova.apache.org/).
+NEB is an acronym for NewLand Enterprise Browser.
+You can install NEB on NQuire300, run it like an Android application, and use it instead of the original CIT application.NEB is based on the open source framework Cordova, so you can find what you need information on the Cordova website.
+
